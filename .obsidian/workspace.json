@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "80defba8c8ba0cfa",
+        "id": "03e14546a55c98a0",
         "type": "tabs",
         "children": [
           {
-            "id": "2f98bc2f23a7f274",
+            "id": "fa05dc52e1703903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "231 Computer Networks and Systems/Lecture 1 - Intoduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Lecture 1 - Intoduction"
+            }
+          },
+          {
+            "id": "c14479da9a7f053f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "231 Computer Networks and Systems/Lecture 1 - Intoduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1 - Intoduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,25 +50,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78f68bc833e53fe3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "c5c2c3b382bcfdfc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#operatingSystems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,6 +74,19 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4b7996c5d63abdbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "231 Computer Networks and Systems/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for Lecture 1"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "231 Computer Networks and Systems/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links from Lecture 1"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "231 Computer Networks and Systems/Lecture 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of Lecture 1"
             }
           },
           {
@@ -177,12 +192,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f98bc2f23a7f274",
+  "active": "c14479da9a7f053f",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Test.md"
+    "Excalidraw/Drawing 2025-10-06 10.36.10.excalidraw.md",
+    "231 Computer Networks and Systems/Lecture 1 - Intoduction.md",
+    "Excalidraw",
+    "231 Computer Networks and Systems/Resources/1-Introduction.pdf",
+    "Powerpoints/lecture1.pptx.md",
+    "Powerpoints",
+    "231 Computer Networks and Systems/Resources/Unconfirmed 973251.crdownload",
+    "231 Computer Networks and Systems/Resources",
+    "2025-10-06.md",
+    "Excalidraw/Drawing 2025-10-05 19.06.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-05 19.06.03.excalidraw.md",
+    "253 Applied Security Methods",
+    "252 Secure Cyber Systems",
+    "233 Operating Systems",
+    "213 Internet Applications",
+    "200 Group Project",
+    "Test.md",
+    "Untitled.canvas"
   ]
 }
