@@ -67,3 +67,6 @@ The internet is an infrastructure that provides services to distributed applicat
 #cloud
 
 Entire server clusters and virtual machines and containers
+
+
+Not finished the lecture
