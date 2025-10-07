@@ -6,6 +6,7 @@ Noted: 07/10/2025 #week1
 
 ## Data Engineering
 #dataengineering 
+
 Data is information represented in binary. Data is constantly being collected, and created. Whenever we do anything. We collect data to retrieve information. To do this we must process data.
 
 > "Data engineering is the process of designing and building systems that allow people to collect, manage, and analyse, data. They work to make raw data useable for data scientists and business analysts for organisations to use it to improve their performance."
@@ -19,4 +20,6 @@ Databases are structured systems for storing, retrieving, and managing data. Rel
 
 A Database represents a massive amount of persistent data according to a logical model. This model can be represented graphically by UML or Entity Relationship Diagrams.
 
-A Database Management System provides efficient, reliable, convenient, safe, multi-user friendly storage access to massive amounts of persistent data.
+A Database Management System #DBMS provides efficient, reliable, convenient, safe, multi-user friendly storage access to massive amounts of persistent data.
+
+To represent the logic of the database, designing a database requires documentation that will be used to reveal database requirements and perform debugging/update, and maintenance with ease. 
