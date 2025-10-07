@@ -1,5 +1,4 @@
 Noted: 06/10/2025 #week1
-Resource: [[1-Introduction.pdf]]
 
 > [!info] Resources
 > [📊 PowerPoint](Resources/1-introduction.pdf)
