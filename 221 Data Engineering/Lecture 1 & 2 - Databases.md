@@ -23,3 +23,7 @@ A Database represents a massive amount of persistent data according to a logical
 A Database Management System #DBMS provides efficient, reliable, convenient, safe, multi-user friendly storage access to massive amounts of persistent data.
 
 To represent the logic of the database, designing a database requires documentation that will be used to reveal database requirements and perform debugging/update, and maintenance with ease. 
+
+Data Definition Language #DDL is used to create tables. Data Manipulation Language #DML is used to modify tables and data.
+
+An [[Entity]] is an object that has distinguishable attributes. An Entity set is a conceptual representation of entities w.r.t the same set of attributes is called an Entity Set. Rectangles are used to represent an entity set. Oval is used to represent an attribute. NEVER used arrows.
