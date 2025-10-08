@@ -4,39 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "be9585498eb6c924",
+        "id": "8a62fec91179914a",
         "type": "tabs",
         "children": [
           {
-            "id": "1111cd2765c81038",
+            "id": "68327fab3e3250ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "221 Data Engineering/a.Databases.md",
+                "file": "211 Software Design/Software Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a.Databases"
+              "title": "Software Requirements"
             }
           }
         ]
       },
       {
-        "id": "16b5695a8999460c",
+        "id": "7323baaf64adb033",
         "type": "tabs",
         "children": [
           {
-            "id": "317df484f09d6dc4",
+            "id": "a84560ce15ae5f87",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "221 Data Engineering/Resources/Week-1.pdf"
+                "file": "211 Software Design/Resources/SoftwareRequirements.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week-1"
+              "title": "SoftwareRequirements"
             }
           }
         ]
@@ -201,9 +201,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "317df484f09d6dc4",
+  "active": "68327fab3e3250ad",
   "lastOpenFiles": [
+    "211 Software Design/Resources/SoftwareRequirements.pdf",
+    "211 Software Design/Software Requirements.md",
+    "231 Computer Networks and Systems/Lecture 1 - Intoduction.md",
     "221 Data Engineering/a.Databases.md",
+    "211 Software Design/Resources",
+    "211 Software Design",
     "221 Data Engineering/Resources/Week-1.pdf",
     "a.Databases ChatGPT.md",
     "README.md",
@@ -216,10 +221,6 @@
     "241 Human-Computer Interaction/Resources",
     "241 Human-Computer Interaction/New folder",
     "241 Human-Computer Interaction",
-    "231 Computer Networks and Systems/Lecture 1 - Intoduction.md",
-    "231 Computer Networks and Systems/Resources/1-Introduction.pdf",
-    "221 Data Engineering/Resources/Week-1.pdf.crdownload",
-    "221 Data Engineering/Resources",
     "Excalidraw/Drawing 2025-10-06 10.36.10.excalidraw.md",
     "Powerpoints/lecture1.pptx.md",
     "2025-10-06.md",
