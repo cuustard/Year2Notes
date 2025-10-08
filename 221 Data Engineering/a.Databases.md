@@ -27,3 +27,5 @@ To represent the logic of the database, designing a database requires documentat
 Data Definition Language #DDL is used to create tables. Data Manipulation Language #DML is used to modify tables and data.
 
 An [[Entity]] is an object that has distinguishable attributes. An Entity set is a conceptual representation of entities w.r.t the same set of attributes is called an Entity Set. Rectangles are used to represent an entity set. Oval is used to represent an attribute. NEVER used arrows.
+
+Redundancy when two identical entities. 
