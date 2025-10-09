@@ -4,6 +4,7 @@ Noted: 07/10/2025 #week1
 > [📊 PowerPoint](Resources/Week-1.pdf)
 > [📽️Lecture Recording]()
 
+
 ## Data Engineering
 #dataengineering 
 

@@ -10,13 +10,13 @@ In computer science, we have models that describe the performance of computers a
 - How everything is connected
 This enables a rough prediction of how long it takes to process information. 
 
-The **Model Human Processor** (MHP) allows us to do the same for humans. It describes human performance as it relates to [HCI]. The takes the eyes are ears as input, arm-hand-finger as output, and the brain for processors and memories. In this model there are 3 interacting subsystems:
+The **Model Human Processor** (MHP) allows us to do the same for humans. It describes human performance as it relates to [[Human-Computer Interaction]]. The takes the eyes are ears as input, arm-hand-finger as output, and the brain for processors and memories. In this model there are 3 interacting subsystems:
 - Perceptual system
 - Motor system
 - Cognitive system
 
 Processors and Memories:
-![[teest.excalidraw]]
+#doitlater 
 
 The Perceptual System is composed of perceptual memory and processor and is responsible for converting external events into a form that the cognitive system can process.
 
