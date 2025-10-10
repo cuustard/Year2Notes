@@ -2,7 +2,13 @@ noted: 08/10/2025
 
 > [!info] Resources
 > [📊 PowerPoint](Resources/SoftwareRequirements.pdf)
-> [📽️Lecture Recording]()
+> [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=701d3f86-17ee-4bfd-a3d9-b36300370351&start=0)
+
+```table-of-contents
+
+```
+
+---
 
 A software requirement defines what the system under development should do (but not how it does it), and constraints under which it must do it.
 

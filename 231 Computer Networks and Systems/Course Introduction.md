@@ -1,13 +1,14 @@
 Noted: 06/10/2025 #week1
 
 > [!info] Resources
-> [📊 PowerPoint](Resources/1-introduction.pdf)
-> [📽️Lecture Recording]()
+> [📊 PowerPoint](CourseIntroduction.pdf)
+> [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b505e5ce-51eb-4587-875c-b363003733b6)
 
+```table-of-contents
 
-Labs are 1 hour per module every week.
-
-> "The module aims to instill a deep understanding of how computer operating systems and network interact to enable the distributed applications that are ubiquitous in the world today and to convey the knowledge and practical experience of internet architecture, network protocols, and operating system principles expected of all computer science graduates."
+```
+---
+The module aims to instil a deep understanding of how computer operating systems and network interact to enable the distributed applications that are ubiquitous in the world today and to convey the knowledge and practical experience of internet architecture, network protocols, and operating system principles expected of all computer science graduates.
 
 Term 1 covers:
 - System Design
@@ -43,6 +44,7 @@ We'll explore three standard computing systems:
 2. Networks/The Internet
 3. Cloud Infrastructures
 
+---
 ## Operating Systems
 #operatingSystems 
 
@@ -54,6 +56,7 @@ An OS (Operating System) is a software layer that sits between hardware and user
 
 The building blocks of OS's are Virtualisation, Concurrency, Persistence, and Security.
 
+---
 ## The Network / Internet
 #theNetwork
 
@@ -62,6 +65,8 @@ Has physical connections like links and interfaces. There is communication acros
 The internet has 3 main components: Hosts, Communication Links, Packet Switches. The hosts are the billions of connected computing devices running network apps at the internets edge. The Packet Switches forward packets of data via routers and switches. Communication links like fiber, copper, radio, and satellite. Bandwidth is the transmission rate. 
 
 The internet is an infrastructure that provides services to distributed applications like the web, e-mail, games, etc. The Internet is a network of networks. Protocols send and receive messages and protocol standards ensure standard delivery of data. A protocol defines the format, order of data exchanged among network entities, and actions, to be taken on message transmission/receipt/non-receipt.
+
+---
 ## The Cloud
 #cloud
 

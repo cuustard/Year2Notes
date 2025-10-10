@@ -1,10 +1,13 @@
 Noted: 07/10/2025 #week1
 
 > [!info] Resources
-> [📊 PowerPoint](Resources/Week-1.pdf)
-> [📽️Lecture Recording]()
+> [📊 PowerPoint](Databases.pdf)
+> [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11692c2d-f819-4298-8cce-b36300370fb8)
 
+```table-of-contents
 
+```
+---
 ## Data Engineering
 #dataengineering 
 
@@ -14,6 +17,7 @@ Data is information represented in binary. Data is constantly being collected, a
 
 Data engineers are responsible for data pipelines, data integrity, data quality, data analysis, data security, and automation. They create data pipelines to manage and process large sets of data. They ensure that data from multiple sources is integrated seamlessly. They ensure that data is oh high quality and that the data infrastructure is reliable and efficient. They create raw data analyses to provide predictive models and show trends. They manage and store data securely to protect it from loss or theft. They create ways to automate tasks within the data pipeline to improve efficiency.
 
+---
 ## Databases
 #database
 
@@ -27,6 +31,6 @@ To represent the logic of the database, designing a database requires documentat
 
 Data Definition Language #DDL is used to create tables. Data Manipulation Language #DML is used to modify tables and data.
 
-An [[Entity]] is an object that has distinguishable attributes. An Entity set is a conceptual representation of entities w.r.t the same set of attributes is called an Entity Set. Rectangles are used to represent an entity set. Oval is used to represent an attribute. NEVER used arrows.
+An Entity is an object that has distinguishable attributes. An Entity set is a conceptual representation of entities w.r.t the same set of attributes is called an Entity Set. Rectangles are used to represent an entity set. Oval is used to represent an attribute. NEVER used arrows.
 
 Redundancy when two identical entities. 

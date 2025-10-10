@@ -1,7 +1,7 @@
 noted: 07/10/2025
 
 > [!info] Resources
-> [📊 PowerPoint](Resources/Week-1.pdf)
+> [📊 PowerPoint](Databases.pdf)
 > [⚒️ Workshop Task](Resources/JavaScriptTutorial.pdf)
 > [📽️Lecture Recording]()
 

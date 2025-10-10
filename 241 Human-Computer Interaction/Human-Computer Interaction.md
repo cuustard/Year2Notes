@@ -1,6 +1,6 @@
 > [!info] Resources
 > [📊 PowerPoint](Resources/HCIIntroduction.pdf)
-> [📽️Lecture Recording]()
+> [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=85904c91-c018-4689-9321-b36300375cc7)
 
 ```table-of-contents
 
