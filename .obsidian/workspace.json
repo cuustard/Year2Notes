@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cfcf1f74d605a80",
+        "id": "4084643e90270993",
         "type": "tabs",
         "children": [
           {
-            "id": "9431a24eda443960",
+            "id": "c54c95e1e376595f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "727bf1043a397ee2",
+        "id": "e649ad0f2830a370",
         "type": "tabs",
         "children": [
           {
-            "id": "9569ad672f77a713",
+            "id": "7928d0a6cc5b8a1d",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f18de4b97aa9b36",
@@ -200,34 +201,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9431a24eda443960",
+  "active": "c54c95e1e376595f",
   "lastOpenFiles": [
-    "211 Software Design/Software Requirements.md",
-    "221 Data Engineering/Databases.md",
-    "231 Computer Networks and Systems/System Design.md",
-    "231 Computer Networks and Systems/Course Introduction.md",
-    "241 Human-Computer Interaction/Human-Computer Interaction.md",
-    "241 Human-Computer Interaction/Model Human Processor and Time Scales.md",
     "231 Computer Networks and Systems/Resources/SystemDesign.pdf",
-    "231 Computer Networks and Systems/Resources/Unconfirmed 585779.crdownload",
+    "231 Computer Networks and Systems/System Design.md",
+    "241 Human-Computer Interaction/Model Human Processor and Time Scales.md",
     "Untitled.canvas",
-    "231 Computer Networks and Systems/Resources/CourseIntroduction.pdf",
-    "221 Data Engineering/Resources/Databases.pdf",
-    "README.md",
     "241 Human-Computer Interaction/Workshops/Workshop 1.md",
-    "241 Human-Computer Interaction/Resources/HCIIntroduction.pdf",
-    "Resources/JavaScriptTutorial.md",
-    "Entity.md",
-    "241 Human-Computer Interaction/Resources/teest.excalidraw.md",
-    "Pasted Image 20251009152936_118.png.md",
-    "Pasted Image 20251009152936_118.png",
     "241 Human-Computer Interaction/Workshops",
+    "241 Human-Computer Interaction/Human-Computer Interaction.md",
+    "231 Computer Networks and Systems/Resources/CourseIntroduction.pdf",
+    "231 Computer Networks and Systems/Course Introduction.md",
+    "221 Data Engineering/Resources/Databases.pdf",
+    "221 Data Engineering/Databases.md",
     "241 Human-Computer Interaction/Resources/ModelHumanProcessorandTimeScales.pdf",
-    "Coursework.md",
+    "241 Human-Computer Interaction/Resources/teest.excalidraw.md",
+    "211 Software Design/Software Requirements.md",
+    "Pasted Image 20251009152936_118.png",
     "Excalidraw",
+    "241 Human-Computer Interaction/HCI Introduction.md",
+    "241 Human-Computer Interaction/Resources/HCIIntroduction.pdf",
+    "231 Computer Networks and Systems/Lecture 1 - Intoduction.md",
     "241 Human-Computer Interaction/Resources/Unconfirmed 6720.crdownload",
     "241 Human-Computer Interaction/Resources/Unconfirmed 734737.crdownload",
+    "211 Software Design/Resources/SoftwareRequirements.pdf",
+    "221 Data Engineering/a.Databases.md",
     "a.Databases ChatGPT.md",
+    "README.md",
+    "Entity.md",
+    "241 Human-Computer Interaction/Workshop 1.md",
+    "Resources/JavaScriptTutorial.md",
     "Excalidraw/Drawing 2025-10-06 10.36.10.excalidraw.md",
     "Powerpoints/lecture1.pptx.md",
     "2025-10-06.md",
