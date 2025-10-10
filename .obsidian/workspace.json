@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#definition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,12 +92,12 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f18de4b97aa9b36",
@@ -202,13 +202,13 @@
   },
   "active": "9431a24eda443960",
   "lastOpenFiles": [
+    "231 Computer Networks and Systems/Resources/SystemDesign.pdf",
+    "231 Computer Networks and Systems/System Design.md",
     "211 Software Design/Software Requirements.md",
     "221 Data Engineering/Databases.md",
-    "231 Computer Networks and Systems/System Design.md",
     "231 Computer Networks and Systems/Course Introduction.md",
     "241 Human-Computer Interaction/Human-Computer Interaction.md",
     "241 Human-Computer Interaction/Model Human Processor and Time Scales.md",
-    "231 Computer Networks and Systems/Resources/SystemDesign.pdf",
     "231 Computer Networks and Systems/Resources/Unconfirmed 585779.crdownload",
     "Untitled.canvas",
     "231 Computer Networks and Systems/Resources/CourseIntroduction.pdf",
