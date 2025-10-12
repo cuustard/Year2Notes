@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.49999618530273
   },
   "right": {
     "id": "7f18de4b97aa9b36",
@@ -161,17 +161,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "231 Computer Networks and Systems/Lecture 1.md",
+                "file": "231 Computer Networks and Systems/System Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 1"
+              "title": "Outline of System Design"
             }
           },
           {
-            "id": "20291676ba597977",
+            "id": "b4270ed3c810b747",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -200,7 +200,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4b7996c5d63abdbf",
+  "active": "3dc31366334bc5bc",
   "lastOpenFiles": [
     "231 Computer Networks and Systems/Resources/SystemDesign.pdf",
     "231 Computer Networks and Systems/System Design.md",
