@@ -11,7 +11,7 @@ Noted: 10/10/2025 #week1
 ---
 ## What System Design Is
 
-System design is all about optimisation, bottlenecks, constraints, resources, and metrics. System design patterns consists of multiplexing, pipelining, batching, locality/caching, distributed/hierarchy, abstraction/binding and indirection, virtualisation/randomisation, data and control separation.
+System design is all about optimisation, bottlenecks, constraints, resources, and metrics. System design patterns consists of multiplexing, pipelining, batching, locality/caching, distributed/hierarchy, abstraction/binding and indirection, virtualisation/randomisation, data and control separation. CUM
 
 A system is a collection of components including hardware and software that work together to achieve a specific goal. Therefore, **System Design** is the science of putting together resources into a harmonious whole. #keyTermDefinition
 
@@ -57,7 +57,7 @@ The ability of a system to handle an increasing amount of work, users, or data b
 
 #### Social
 
-**Social Standards**: These are external requirements or conventions that systems must conform to, even if they do not always make technical sense. Underspecified or inconsistently applied standards can lead to **faulty** or **non-interoperable implementations**.
+**Social Standards**: These are external requirements or conventions that systems must conform to, even if they do not always make technical sense. Under-specified or inconsistently applied standards can lead to **faulty** or **non-interoperable implementations**.
 
 **Social Market Requirements**: Market and user expectations can impose additional design constraints, such as:
 - **Backward compatibility** with older systems or products.
